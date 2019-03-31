@@ -1,4 +1,4 @@
-package pkg;
+
 
 public class neuron {
 	private double[] inputs;
